@@ -1,0 +1,5 @@
+{
+  "DBName": "testcase",
+  "DBHost": "127.0.0.1",
+  "DBCollection": "logs"
+}
